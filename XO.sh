@@ -1,13 +1,5 @@
 #!/bin/bash
 
-#	   Tic-Tac-Toe
-# +-------------------+
-# | Creators :		  |
-# |	 > Ananta Gupta   |
-# |  > Tanmay Kedari  |
-# |  > Aniket Borade  |
-# +-------------------+
-
 declare -a arr
 
 function print()
